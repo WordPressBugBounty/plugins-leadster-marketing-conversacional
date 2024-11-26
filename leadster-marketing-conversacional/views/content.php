@@ -57,7 +57,7 @@
                 <p><strong><?php esc_html_e("If your website has a caching mechanism, you need to reset the cache.", "leadster-marketing-conversacional"); ?></strong></p>
                 <p><strong><?php esc_html_e("So the chatbot should now work.", "leadster-marketing-conversacional"); ?></strong></p>
                 <hr>
-                <p><?php esc_html_e("Version:", "leadster-marketing-conversacional"); ?> 1.3.1</p>
+                <p><?php esc_html_e("Version:", "leadster-marketing-conversacional"); ?> 1.3.2</p>
             </div>
         </form>
     </div>

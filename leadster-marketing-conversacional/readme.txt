@@ -2,9 +2,9 @@
 Contributors: leadster
 Tags: leadster, marketing, marketing conversacional, leads, geração de leads
 Requires at least: 5.0
-Tested up to: 6.5.3
+Tested up to: 6.7.1
 Requires PHP: 7.0
-Stable tag: 1.3.1
+Stable tag: 1.3.2
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl.html
 
@@ -80,6 +80,9 @@ Para isso, usamos 'https://cdn.leadster.com.br/' para carregar nosso snippet de 
 
 
 == Changelog ==
+= 1.3.2 =
+* Atualização metadados;
+
 = 1.3.1 =
 * Ajustes para melhor uso do texto de domínio;
 

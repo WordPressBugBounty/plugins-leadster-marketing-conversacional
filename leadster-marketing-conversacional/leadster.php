@@ -6,7 +6,7 @@
 /**
 * Plugin Name: Leadster
 * Description: Make the Leadster script implementation process easier. | Facilite o processo de implementação do script da Leadster.
-* Version: 1.3.1
+* Version: 1.3.2
 * Author: Leadster
 * License: GPL v3
 * Author URI: https://leadster.com.br/
